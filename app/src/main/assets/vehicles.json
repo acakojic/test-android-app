@@ -1,0 +1,132 @@
+[
+    {
+        "vehicleID": 1,
+        "vehicleTypeID": 1,
+        "imageURL": "https://zadatak.tcom.rs/zadatak/public/storage/vehicles/volvo.jpg",
+        "name": "Volvo S60",
+        "location": {
+            "latitude": 44.81550315919171,
+            "longitude": 20.37402220528207
+        },
+        "rating": 4.5,
+        "price": 85,
+        "isFavorite": true
+    },
+    {
+        "vehicleID": 2,
+        "vehicleTypeID": 1,
+        "imageURL": "https://zadatak.tcom.rs/zadatak/public/storage/vehicles/audi.jpg",
+        "name": "Audi A7",
+        "location": {
+            "latitude": 44.76756627028172,
+            "longitude": 20.51140390644166
+        },
+        "rating": 3,
+        "price": 60,
+        "isFavorite": false
+    },
+    {
+        "vehicleID": 3,
+        "vehicleTypeID": 2,
+        "imageURL": "https://zadatak.tcom.rs/zadatak/public/storage/vehicles/bmw-m.jpg",
+        "name": "BMW M 1000 RR",
+        "location": {
+            "latitude": 44.824279705179926,
+            "longitude": 20.47221407050417
+        },
+        "rating": 3.9,
+        "price": 40,
+        "isFavorite": true
+    },
+    {
+        "vehicleID": 4,
+        "vehicleTypeID": 2,
+        "imageURL": "https://zadatak.tcom.rs/zadatak/public/storage/vehicles/ducati.jpg",
+        "name": "Ducati Panigale V4R",
+        "location": {
+            "latitude": 44.84710946965857,
+            "longitude": 20.38462508384939
+        },
+        "rating": 4.8,
+        "price": 30,
+        "isFavorite": false
+    },
+    {
+        "vehicleID": 5,
+        "vehicleTypeID": 2,
+        "imageURL": "https://zadatak.tcom.rs/zadatak/public/storage/vehicles/aprilia.jpg",
+        "name": "Aprilia RS",
+        "location": {
+            "latitude": 44.76750365075511,
+            "longitude": 20.424278419638544
+        },
+        "rating": 3.2,
+        "price": 45,
+        "isFavorite": false
+    },
+    {
+        "vehicleID": 6,
+        "vehicleTypeID": 3,
+        "imageURL": "https://zadatak.tcom.rs/zadatak/public/storage/vehicles/volvo-t.jpg",
+        "name": "Volvo FM",
+        "location": {
+            "latitude": 44.806752577992015,
+            "longitude": 20.367198955286753
+        },
+        "rating": 4.9,
+        "price": 100,
+        "isFavorite": false
+    },
+    {
+        "vehicleID": 7,
+        "vehicleTypeID": 3,
+        "imageURL": "https://zadatak.tcom.rs/zadatak/public/storage/vehicles/kamaz.jpg",
+        "name": "Kamaz",
+        "location": {
+            "latitude": 44.792242418711496,
+            "longitude": 20.523500666081844
+        },
+        "rating": 4.2,
+        "price": 120,
+        "isFavorite": false
+    },
+    {
+        "vehicleID": 8,
+        "vehicleTypeID": 3,
+        "imageURL": "https://zadatak.tcom.rs/zadatak/public/storage/vehicles/mecredes-t.jpg",
+        "name": "Mercedes-Benz",
+        "location": {
+            "latitude": 44.84118382093852,
+            "longitude": 20.393693784534157
+        },
+        "rating": 3.5,
+        "price": 90,
+        "isFavorite": false
+    },
+    {
+        "vehicleID": 9,
+        "vehicleTypeID": 1,
+        "imageURL": "https://zadatak.tcom.rs/zadatak/public/storage/vehicles/bmw-320d.jpg",
+        "name": "BMW 320d",
+        "location": {
+            "latitude": 44.77098895361907,
+            "longitude": 20.416722221526705
+        },
+        "rating": 5,
+        "price": 50,
+        "isFavorite": false
+    },
+    {
+        "vehicleID": 10,
+        "vehicleTypeID": 1,
+        "imageURL": "https://zadatak.tcom.rs/zadatak/public/storage/vehicles/bmw-320d.jpg",
+        "name": "BMW 320d02",
+        "location": {
+            "latitude": 44.9,
+            "longitude": 20.42
+        },
+        "rating": 5,
+        "price": 52,
+        "isFavorite": false
+    }
+]

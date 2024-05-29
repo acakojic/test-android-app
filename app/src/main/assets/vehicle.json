@@ -1,0 +1,13 @@
+{
+    "vehicleID": 1,
+    "vehicleTypeID": 1,
+    "imageURL": "https://zadatak.tcom.rs/zadatak/public/storage/vehicles/volvo.jpg",
+    "name": "Volvo S60",
+    "location": {
+        "latitude": 44.81550315919171,
+        "longitude": 20.37402220528207
+    },
+    "rating": 4.5,
+    "price": 85,
+    "isFavorite": true
+}
